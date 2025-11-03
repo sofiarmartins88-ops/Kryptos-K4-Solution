@@ -1,0 +1,5 @@
+# Python requirements for K4 solution
+# Only standard library used - no external dependencies
+
+# Optional for enhanced testing:
+# pytest>=7.0.0
